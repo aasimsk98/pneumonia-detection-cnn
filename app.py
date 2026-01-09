@@ -150,4 +150,4 @@ elif page_selection == "Model Performance":
         """)
 
 st.markdown("---")
-st.markdown("**Github Link**: ")
+st.markdown("**Github Link**: https://github.com/aasimsk98/pneumonia-detection-cnn/")
